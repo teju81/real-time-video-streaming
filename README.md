@@ -7,6 +7,8 @@
 
 ### WebRTC
 
+### USB/IP
+
 
 ## Open Source Tools
 
@@ -30,3 +32,4 @@
 # References:
 
 1) AV package - https://pyav.org/docs/develop/api/video.html
+2) USB/IP - https://developer.ridgerun.com/wiki/index.php?title=How_to_setup_and_use_USB/IP
